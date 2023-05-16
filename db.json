@@ -6,8 +6,8 @@
       {
         "name": "ProvisionCheck",
         "package": "ar.com.flow.provisioncheck",
-        "version": "1.6.16.2",
-        "build": 43,
+        "version": "1.6.13.2",
+        "build": 36,
         "url": "https://atv-json-server.flow.com.ar/apks/PC-1.6.16.2vc43.apk",
         "MD5": "a15eb2c9bf7ef5e4a9e1fa98fec6fa4b",
         "SHA256": "2dc3e41ea1d4331e710b7a554c6849cece8bddb98d6eeac6b88036efa62cc366",
